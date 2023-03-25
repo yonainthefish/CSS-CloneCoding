@@ -1,0 +1,5 @@
+
+.icon-phone:before { content: '\e800'; } /* '' */
+.icon-phone-1:before { content: '\e801'; } /* '' */
+.icon-phone-outline:before { content: '\e802'; } /* '' */
+.icon-tty:before { content: '\f1e4'; } /* '' */
